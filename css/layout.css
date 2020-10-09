@@ -2,12 +2,12 @@
 main{
     margin: auto;
     margin-top: 10px;
-    background: black;
     width: 480px;
     height:767px;
 }
 #a {
     color: red;
+    background:chocolate;
     outline: 2px solid white;
     width: 480px;
     height: 75px;
@@ -17,6 +17,7 @@ main{
 }
 #b {
     color: red;
+    background: black;
     outline: 2px solid white;
     width: 480px;
     height: 150px;
@@ -26,6 +27,7 @@ main{
 }
 #c {
     color: red;
+    background: darkorange;
     outline: 2px solid white;
     width: 480px;
     height: 125px;
@@ -36,6 +38,7 @@ main{
 }
 #d {
     color: red;
+    background: blueviolet;
     outline: 2px solid white;
     width: 480px;
     height: 125px;
@@ -46,6 +49,7 @@ main{
 }
 #e {
     color: red;
+    background: darkolivegreen;
     outline: 2px solid white;
     width: 240px;
     height: 250px;
@@ -56,6 +60,7 @@ main{
 }
 #f {
     color: red;
+    background: violet;
     outline: 2px solid white;
     width: 240px;
     height: 250px;
@@ -66,6 +71,7 @@ main{
 }
 #g {
     color: red;
+    background:forestgreen;
     outline: 2px solid white;
     width: 240px;
     height: 250px;
@@ -76,6 +82,7 @@ main{
 }
 #h {
     color: red;
+    background: lightcoral;
     outline: 2px solid white;
     width: 240px;
     height: 250px;
@@ -86,6 +93,7 @@ main{
 }
 #i {
     color: red;
+    background: burlywood;
     outline: 2px solid white;
     width: 480px;
     height: 80px;
@@ -99,12 +107,12 @@ main{
     main{
         margin: auto;
         margin-top: 10px;
-        background: burlywood;
         height:768px;
         width: 960px;
     }    
     #a {
         color: red;
+        background: yellow;
         outline: 2px solid black;
         width: 960px;
         height: 100px;
@@ -114,6 +122,7 @@ main{
     }
     #b {
         color: red;
+        background: orchid;
         outline: 2px solid black;
         width: 200px;
         height: 600px;
@@ -124,6 +133,7 @@ main{
     }
     #c {
         color: red;
+        background: palegreen;
         outline: 2px solid black;
         width: 380px;
         height: 200px;
@@ -134,6 +144,7 @@ main{
     }
     #d {
         color: red;
+        background: paleturquoise;
         outline: 2px solid black;
         width: 380px;
         height: 200px;
@@ -144,6 +155,7 @@ main{
     }
     #e {
         color: red;
+        background: powderblue;
         outline: 2px solid black;
         width: 190px;
         height: 250px;
@@ -154,6 +166,7 @@ main{
     }
     #f {
         color: red;
+        background: peru;
         outline: 2px solid black;
         width: 190px;
         height: 250px;
@@ -164,6 +177,7 @@ main{
     }
     #g {
         color: red;
+        background: aqua;
         outline: 2px solid black;
         width: 190px;
         height: 250px;
@@ -174,6 +188,7 @@ main{
     }
     #h {
         color: red;
+        background: seagreen;
         outline: 2px solid black;
         width: 190px;
         height: 250px;
@@ -184,6 +199,7 @@ main{
     }
     #i {
         color: red;
+        background:steelblue;
         outline: 2px solid black;
         width: 760px;
         height: 150px;
